@@ -1,19 +1,4 @@
-<!doctype html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <title>Immune System</title>
-    <link rel="stylesheet" href="/assets/css/styles.css">
-  </head>
-  <body>
-  	<nav>
-	<center>
-  
-    <a href="/immune_system"  > Immune System</a> &nbsp; &nbsp;
-  
-  </center>
-</nav>
-    <h1>Quantitative Immunology for Physicist</h1>
+I"Õ<h1>Quantitative Immunology for Physicist</h1>
 
 <center>
 <div class="youtube-wrapper"> 
@@ -54,12 +39,10 @@
 
   <h2>References</h2>
 <ul>
-<li> <a href="https://www.sciencedirect.com/science/article/pii/S0370157320300090">Quantitative immunology for physicists, G. Altan-Bonnet, et.al. (2020) </a>
+<li>
+  
   </li>
 </ul>
 </ul>
-<p>Â </p>
 
-
-  </body>
-</html>
+:ET
