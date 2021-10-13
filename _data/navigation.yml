@@ -4,11 +4,11 @@
   link: /about.html
 - name: Research
   link: /Research.html
-- name: <i>Física y Evolución</i>
-  link: /fisica_evolucion.html
-- name: Statistical Physics
-  link: /statistical_physics
+#- name: <i>Física y Evolución</i>
+#  link: /fisica_evolucion.html
+#- name: Statistical Physics
+#  link: /statistical_physics
 - name: Immune System
   link: /immune_system
-- name: Otros escritos...
+- name: Otros escritos
   link: https://rmorantovar.medium.com
