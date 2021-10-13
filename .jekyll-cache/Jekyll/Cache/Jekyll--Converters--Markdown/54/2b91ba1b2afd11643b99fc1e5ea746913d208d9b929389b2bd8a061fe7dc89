@@ -1,19 +1,4 @@
-<!doctype html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <title>Immune System</title>
-    <link rel="stylesheet" href="/assets/css/styles.css">
-  </head>
-  <body>
-  	<nav>
-	<center>
-  
-    <a href="/immune_system"  > Immune System</a> &nbsp; &nbsp;
-  
-  </center>
-</nav>
-    <h1>Quantitative Immunology for Physicist</h1>
+I"¹<h1>Quantitative Immunology for Physicist</h1>
 
 <center>
 <div class="youtube-wrapper"> 
@@ -52,6 +37,4 @@
     
   
 </ul>
-
-  </body>
-</html>
+:ET
