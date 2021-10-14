@@ -1,19 +1,4 @@
-<!doctype html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <title>Immune System</title>
-    <link rel="stylesheet" href="/assets/css/styles.css">
-  </head>
-  <body>
-  	<nav>
-	<center>
-  
-    <a href="/immune_system"  > Immune System</a> &nbsp; &nbsp;
-  
-  </center>
-</nav>
-    <h1>Quantitative Immunology for Physicist</h1>
+I"â<h1>Quantitative Immunology for Physicist</h1>
 
 <center>
 <div class="youtube-wrapper"> 
@@ -59,14 +44,6 @@
     </li>
     
   
-  	
-    <li>
-      <h2><a href="/2021/10/13/ch4.html">Chapter 4: Repertoires II</a></h2>
-      
-
-    </li>
-    
-  
 
   <li><h2>General References</h2>
 <ul>
@@ -77,6 +54,4 @@
 </ul>
 <p>Â </p>
 
-
-  </body>
-</html>
+:ET
