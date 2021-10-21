@@ -10,7 +10,7 @@ This course is arranged as a weekly discussion group on selected topics in quant
   	{% if post.blog == "IS" %}
     <li>
       <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-      {{ post.excerpt }}
+      <!--{{ post.excerpt }}-->
     </li>
     {% endif %}
   {% endfor %}
