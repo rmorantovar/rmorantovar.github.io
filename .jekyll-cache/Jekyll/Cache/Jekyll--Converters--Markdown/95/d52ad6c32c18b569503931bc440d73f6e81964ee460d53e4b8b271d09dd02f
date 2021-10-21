@@ -1,20 +1,4 @@
-<!doctype html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <title>Immune System</title>
-    <link rel="stylesheet" href="/assets/css/styles.css">
-  </head>
-  <body>
-  	<nav>
-	<center>
-  
-    <a href="/immune_system"  > Immune System</a> &nbsp; &nbsp;
-  
-  </center>
-</nav>
-    <h1>Quantitative Immunology for Physicist</h1>
-
+I"�<h1>Quantitative Immunology for Physicist</h1>
 <p><img src="./assets/images/QIFP.png#center" alt="fig1" class="logo" /></p>
 
 <p>This course is arranged as a weekly discussion group on selected topics in quantitative immunology. It is divided up into four chapters. For each chapter, common reading should first introduce each student to the basics of the topic. Then, more advanced topics that are relevant to the chapter are provided and discussed. The course is centred around reading and self-study: students are expected to have read the selected paper(s) before each discussion. In the discussion session, we will then go together over the central message of the paper, possible problems and difficulties, and relevance for our broader understanding of quantitative immunology. Moreover, for each week a new chair is assigned to lead the discussion for a topic discussed the following week. This includes a short summary of the paper, and possible discussion questions.</p>
@@ -27,7 +11,8 @@
   	
     <li>
       <h2><a href="/2021/10/12/intro.html">Introduction</a></h2>
-      <!--<p>The adaptive immune system is a complex system that protect us from external pathogens and malicious cells of our own body. It relies on the molecular recognition of such threats to trigger a highly complex and coordinated response to erradicate them. It involves the work of several type of cells, among which B and T cells are the most important ones. Immunologist have described successfully many fundamental features of the adaptive immune system that have illuminated us about the great complexity of its components, performance and evolutionary history. However, many open questions remain unsolved, specially from a quantitative point of view. With the seminal work of Alan Perelson in the 70s’, physicist dabbled in the field of immunology and since then have been trying to make quantitative models to breakdown the large complexity of the system.</p>
+      <!--<p><img src="../../../assets/images/QIFP.png#center" alt="fig1" class="logo" />
+The adaptive immune system is a complex system that protect us from external pathogens and malicious cells of our own body. It relies on the molecular recognition of such threats to trigger a highly complex and coordinated response to erradicate them. It involves the work of several type of cells, among which B and T cells are the most important ones. Immunologist have described successfully many fundamental features of the adaptive immune system that have illuminated us about the great complexity of its components, performance and evolutionary history. However, many open questions remain unsolved, specially from a quantitative point of view. With the seminal work of Alan Perelson in the 70s’, physicist dabbled in the field of immunology and since then have been trying to make quantitative models to breakdown the large complexity of the system.</p>
 -->
     </li>
     
@@ -76,6 +61,4 @@
 </ul>
 <p> </p>
 
-
-  </body>
-</html>
+:ET

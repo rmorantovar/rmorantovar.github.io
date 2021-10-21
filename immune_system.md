@@ -2,7 +2,12 @@
 layout: default_IS
 title: Immune System
 ---
+
+
 <h1>Quantitative Immunology for Physicist</h1>
+
+![fig1](./assets/images/QIFP.png#center){:class="logo"}
+
 
 This course is arranged as a weekly discussion group on selected topics in quantitative immunology. It is divided up into four chapters. For each chapter, common reading should first introduce each student to the basics of the topic. Then, more advanced topics that are relevant to the chapter are provided and discussed. The course is centred around reading and self-study: students are expected to have read the selected paper(s) before each discussion. In the discussion session, we will then go together over the central message of the paper, possible problems and difficulties, and relevance for our broader understanding of quantitative immunology. Moreover, for each week a new chair is assigned to lead the discussion for a topic discussed the following week. This includes a short summary of the paper, and possible discussion questions.
 <ul>

@@ -1,5 +1,7 @@
 .current { color: green; }
 
+.logo { position: relative; float: right; display: block; margin: 0 auto; width: 200px; height: auto; }
+
 .figure { float: center; display: block; margin: 0 auto; width: 600px; height: auto; }
 
 .image-caption { display: block; margin: 0 auto; text-align: center; font-size: 14pt; color: light-grey; }
