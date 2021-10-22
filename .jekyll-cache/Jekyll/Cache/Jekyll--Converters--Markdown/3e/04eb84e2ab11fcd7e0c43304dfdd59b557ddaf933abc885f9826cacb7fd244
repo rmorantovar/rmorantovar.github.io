@@ -1,0 +1,17 @@
+I"<p>The binding of molecules is a ubiquitous process in nature with a great relevance for most (or maybe all) biological processes. In scenarios like the DNA replication, the transcription of genetic material, the synthesis of proteins, the transmission of signals, among many others, molecules need to find their cognate partners and bind to them. A classical and very well studied example is the case of Hemoglobin, the molecule in red blood cells in charge of transporting oxygen from the lungs to the rest of our bodies. Understanding their binding properties has triggered a big number of discoveries ranging from the structure of proteins to human physiology. In the case of the immune system, binding events are also a relevant part of the whole complex functioning. One can say, from a perspective of statistical physics, that some part of the great complexity that we observe in how the immune system is organized and how does it work, comes from the collective effect of many rather simple binding interactions between its different participants.</p>
+
+<p>In this first chapter, we will study some basic concepts about the binding kinetics of a receptor-ligand pair from a perspective of equilibrium statistical physics. Additionally, we will understand the relevance of binding events in the context of the immune system by looking at specific examples in the existing literature.</p>
+
+<h2> Readings for the next session on the 29.10.21: </h2>
+
+<ul>
+	<li> The Physical Biology of the Cell,  2nd Edition, Phillips, et.al. Sections: 6.1.1, 7.2.2, 7.2.4 <a href="http://localhost:4000/assets/files/IS/Philips_Binding.pdf">(pdf)</a>
+	</li>
+	<li> The Molecules of Life, Kuriyan, et.al. Sections: 12.1-12.6, 12.9-12.11, 13.1-13.6 <a href="http://localhost:4000/assets/files/IS/Kuriyan_Binding.pdf">(pdf)</a>
+	</li> 
+	<li> <a href="https://www.sciencedirect.com/science/article/pii/S0370157320300090">Quantitative immunology for physicists, G. Altan-Bonnet, et.al. (2020)</a> Sections: 2.1, 2.2, 2.3
+	</li>
+	<li> an additional paper to be announced soon ...
+	</li>
+</ul>
+:ET
