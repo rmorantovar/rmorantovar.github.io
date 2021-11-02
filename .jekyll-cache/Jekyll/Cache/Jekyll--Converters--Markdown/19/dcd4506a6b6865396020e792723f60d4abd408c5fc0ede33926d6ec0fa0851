@@ -1,25 +1,4 @@
-<!doctype html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <title>Topic 1: Physical chemistry of ligand-receptor interactions</title>
-    <link rel="stylesheet" href="/assets/css/styles.css">
-  </head>
-  <body>
-  	<nav>
-	<center>
-  
-    <a href="/immune_system"  > Immune System</a> &nbsp; &nbsp;
-  
-  </center>
-</nav>
-    <img class=logo src= "../../../assets/images/IS/QIFP.png">
-    <h1>Topic 1: Physical chemistry of ligand-receptor interactions</h1>
-
-
-<!-- <p>13 Oct 2021 - </p> -->
-
-<p>The binding of molecules is a ubiquitous process in nature with a great relevance for most (or maybe all) biological processes. In scenarios like the DNA replication, the transcription of genetic material, the synthesis of proteins, the transmission of signals, among many others, molecules need to find their cognate partners and bind to them. A classical and very well studied example is the case of Hemoglobin, the molecule in red blood cells in charge of transporting oxygen from the lungs to the rest of our bodies. Understanding their binding properties has triggered a big number of discoveries ranging from the structure of proteins to human physiology. In the case of the immune system, binding events are also a relevant part of the whole complex functioning. One can say, from a perspective of statistical physics, that some part of the great complexity that we observe in how the immune system is organized and how does it work, comes from the collective effect of many rather simple binding interactions between its different participants.</p>
+I"A<p>The binding of molecules is a ubiquitous process in nature with a great relevance for most (or maybe all) biological processes. In scenarios like the DNA replication, the transcription of genetic material, the synthesis of proteins, the transmission of signals, among many others, molecules need to find their cognate partners and bind to them. A classical and very well studied example is the case of Hemoglobin, the molecule in red blood cells in charge of transporting oxygen from the lungs to the rest of our bodies. Understanding their binding properties has triggered a big number of discoveries ranging from the structure of proteins to human physiology. In the case of the immune system, binding events are also a relevant part of the whole complex functioning. One can say, from a perspective of statistical physics, that some part of the great complexity that we observe in how the immune system is organized and how does it work, comes from the collective effect of many rather simple binding interactions between its different participants.</p>
 
 <center>
 <figure>
@@ -57,19 +36,15 @@
 	</li>
 	<li> <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC434431/">How do site-speci®c DNA-binding proteins ®nd their targets?. S. Haldorf and J. Marko, Nucleic Acids Research, 2004 </a>
 	</li>
-	<li> Other recommended readings (Not mandatory):
+	<li> Other readings
 		<ul>
 			<li>
-				<a href="https://www.nature.com/articles/nature01076">Direct observation of ligand recognition by T cells, D. Irvine, et.al., Nature, 2002 </a>
+				<a href="https://www.nature.com/articles/nature01076">Direct observation of ligand recognition by T cells, D. Irvine, et.al., Nature, 2004 </a>
 			</li>
 			<li>
-				<a href="https://www.nature.com/articles/nsmb.1441">Visualizing one-dimensional diffusion of proteins along DNA, J. Gorman and E. Greene, Nature, 2008 </a>
+				<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC434431/">How do site-speci®c DNA-binding proteins ®nd their targets?. S. Haldorf and J. Marko, Nucleic Acids Research, 2004 </a>
 			</li>
 		</ul>
 	</li>
 </ul>
-
-
-
-  </body>
-</html>
+:ET
