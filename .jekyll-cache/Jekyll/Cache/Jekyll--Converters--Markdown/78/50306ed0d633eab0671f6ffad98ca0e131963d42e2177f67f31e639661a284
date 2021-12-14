@@ -1,12 +1,4 @@
----
-layout: post_IS
-blog: IS
-author: 
-title: "Topic 2: Antigen recognition"
----
-
-<h2> Kinetic Proof-reading:</h2>
-
+I"ç<h2> Kinetic Proof-reading:</h2>
 
 <h2> Readings for the next session on the 12.11.21: </h2>
 
@@ -28,17 +20,11 @@ title: "Topic 2: Antigen recognition"
 
 <h2> Readings for the next session on the 26.11.21: </h2>
 
-<ul>
-	<li> <a href="https://www.frontiersin.org/articles/10.3389/fimmu.2014.00013/full">Theories and quantification of thymic selection, A. J. Yates, frontiers in Immunology, 2014.</a>
+<ul><li> <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC434344/pdf/pnas00073-0345.pdf">Kinetic Proofreading: A New Mechanism for Reducing Errors in Biosynthetic Processes Requiring High Specificity, J. Hopfield, PNAS, 1974.</a>
 	</li>
-	<li> Other recommended readings (Not mandatory):
-		<ul>
-			<li>
-				<a href= "https://www.annualreviews.org/doi/10.1146/annurev.immunol.21.120601.141107?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub++0pubmed">Positive and Negative Selection of T Cells, T. K. Starr, et.al., Annual Review of Immunology, 2003 </a>
-			</li>
-			<li>
-				<a href= "https://link.springer.com/book/10.1007/978-1-4939-9450-2">Antigen Processing - Methods and Protocols, P.van Endert, Springer Protocols, 2019, Chapter 23 </a>
-			</li>
-		</ul>
+	<li> <a href="https://www.pnas.org/content/pnas/92/11/5042.full.pdf">Kinetic proofreading in T-cell receptor signal transduction, T. McKeithan, PNAS, 1995 </a>
 	</li>
+	<li> <a href="https://www.nature.com/articles/cmi201129.pdf">Discrimination of membrane antigen affinity by B cells requires dominance of kinetic proofreading over serial engagement, P Tsourkas, et.al., Nature, 2012 </a>
+	</li> 
 </ul>
+:ET
