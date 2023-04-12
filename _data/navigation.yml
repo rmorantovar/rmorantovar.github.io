@@ -1,7 +1,7 @@
 - name: Home
   link: /
-- name: About me
-  link: /sections/about
+# - name: About me
+#   link: /sections/about
 - name: Research
   link: /sections/research.html
 # - name: Publications
