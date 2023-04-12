@@ -1,14 +1,22 @@
 - name: Home
   link: /
 - name: About me
-  link: /about.html
+  link: /sections/about
 - name: Research
-  link: /Research.html
+  link: /sections/research.html
+# - name: Publications
+#   link: /sections/publications
+- name: Teaching
+  link: /sections/teaching
+# - name: Quantitative Immunology
+#   link: /sections/quantitative_immunology
+- name: Contact
+  link: /sections/contact
+- name: Blog
+  link: /sections/blog.html
+- name: Otros escritos
+  link: https://rmorantovar.medium.com
 #- name: <i>Física y Evolución</i>
 #  link: /fisica_evolucion.html
 #- name: Statistical Physics
 #  link: /statistical_physics
-- name: Immune System
-  link: /immune_system
-- name: Otros escritos
-  link: https://rmorantovar.medium.com

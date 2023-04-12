@@ -1,7 +1,11 @@
 collections:
   blogs:
+  # sections:
+  #   output: true
 
 plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
+
+baseurl: "" # or your project's subdirectory, e.g., "/my-project"
