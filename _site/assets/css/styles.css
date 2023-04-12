@@ -4,11 +4,11 @@
 
 .figure { text-align: center; float: center; display: block; margin: 0 auto; width: 500px; height: auto; }
 
-.figure img { display: inline-block; max-width: 100%; height: auto; }
+.figure img { margin-bottom: 5px; display: inline-block; max-width: 100%; height: auto; }
 
-.image-caption { display: block; margin: 0 auto; text-align: center; font-size: 14pt; color: light-grey; }
+.image-caption { display: block; margin: 0 auto; text-align: center; font-size: 12pt; color: light-grey; }
 
-.title { display: block; margin: 0 auto; font-size: 16pt; text-align: center; text-style: bold; }
+.title { display: block; margin: 0 auto; font-size: 12pt; text-align: center; text-style: bold; }
 
 .youtube-wrapper { position: relative; width: 40%; height: 80%; padding-bottom: 25%; border: 1; }
 

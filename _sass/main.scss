@@ -17,6 +17,7 @@
     width: 500px;
     height: auto;
     img {
+    margin-bottom: 5px;
     display: inline-block;
     max-width: 100%; // Limit the image width to 80% of its container
     height: auto; // Maintain the aspect ratio
@@ -26,14 +27,14 @@
 	display: block;
 	margin: 0 auto;
 	text-align: center;
-	font-size: 14pt;
+	font-size: 12pt;
 	color: light-grey;
   }
 
 .title {
 	display: block;
 	margin: 0 auto;
-	font-size : 16pt;
+	font-size : 12pt;
 	text-align: center;
 	text-style: bold;
 }
