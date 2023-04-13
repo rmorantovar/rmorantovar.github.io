@@ -1,12 +1,4 @@
----
-layout: post_IS
-blog: IS
-author: 
-title: "Topic 2: Antigen recognition"
----
-
-<h2> Kinetic Proofreading:</h2>
-
+I"Ñ<h2> Kinetic Proofreading:</h2>
 
 <h2> Readings for the next session on the 12.11.21: </h2>
 
@@ -34,10 +26,10 @@ title: "Topic 2: Antigen recognition"
 	<li> Other recommended readings (Not mandatory):
 		<ul>
 			<li>
-				<a href= "https://www.annualreviews.org/doi/10.1146/annurev.immunol.21.120601.141107?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub++0pubmed">Positive and Negative Selection of T Cells, T. K. Starr, et.al., Annual Review of Immunology, 2003 </a>
+				<a href="https://www.annualreviews.org/doi/10.1146/annurev.immunol.21.120601.141107?url_ver=Z39.88-2003&amp;rfr_id=ori%3Arid%3Acrossref.org&amp;rfr_dat=cr_pub++0pubmed">Positive and Negative Selection of T Cells, T. K. Starr, et.al., Annual Review of Immunology, 2003 </a>
 			</li>
 			<li>
-				<a href= "https://link.springer.com/book/10.1007/978-1-4939-9450-2">Antigen Processing - Methods and Protocols, P.van Endert, Springer Protocols, 2019, Chapter 23 </a>
+				<a href="https://link.springer.com/book/10.1007/978-1-4939-9450-2">Antigen Processing - Methods and Protocols, P.van Endert, Springer Protocols, 2019, Chapter 23 </a>
 			</li>
 		</ul>
 	</li>
@@ -60,3 +52,4 @@ title: "Topic 2: Antigen recognition"
 	</li>
 	
 </ul>
+:ET
