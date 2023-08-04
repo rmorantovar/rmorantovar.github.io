@@ -1,8 +1,7 @@
 ---
 layout: default_Immune_system
-title: Quantitative Immunology
+title: Immunology for physicists
 ---
-
 
 <h1>Quantitative Immunology for Physicist</h1>
 
@@ -10,7 +9,7 @@ The course gives an introduction to modern immunology for physicists, with an em
 
 <center>
 <figure>
-<img src= "../../../assets/images/IS/IgG.png" width="300px" height="auto">
+<img src= "../../../assets/images/Immune_system/IgG.png" width="300px" height="auto">
 <figcaption>Visualization of the molecular structure of an antibody (IgG). Figure provided by Malancha Karmakar</figcaption>
 </figure>
 </center>

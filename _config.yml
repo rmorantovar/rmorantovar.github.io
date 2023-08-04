@@ -9,3 +9,5 @@ plugins:
   - jekyll-seo-tag
 
 baseurl: "" # or your project's subdirectory, e.g., "/my-project"
+
+# theme: minimal-mistakes-jekyll

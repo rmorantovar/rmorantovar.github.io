@@ -2,7 +2,8 @@
 layout: default
 title: Blog
 ---
-
+<div style = "text-align: justify; max-width: 1000px; margin: 0 auto;">
+  
 <h1>Latest Posts</h1>
 
 <ul>

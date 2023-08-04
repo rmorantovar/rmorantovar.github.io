@@ -4,5 +4,13 @@ title: Contact
 ---
 <!-- <center> <h1> Contact </h1>  </center> {:class="title"} -->
 <div style = "margin: 0 auto; margin-bottom: 20px; margin-top: 20px"> 
-<center> r.morantovar@uni-koeln.de </center>
+<center> <br>
+	r.morantovar@uni-koeln.de <br>
+
+Institute for Biological Physics<br>
+
+University of Cologne<br>
+
+Zülpicher Straße 77, 50937, Köln, Germany<br>
+</center>
 </div>

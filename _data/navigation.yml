@@ -12,8 +12,10 @@
 #   link: /sections/quantitative_immunology
 - name: Blog
   link: /sections/blog
-- name: Otros escritos en español
-  link: https://rmorantovar.medium.com
+- name: ... en español
+  link: /sections/en_espaniol
+# - name: Otros escritos en español
+#   link: https://rmorantovar.medium.com
 - name: Contact
   link: /sections/contact
 #- name: <i>Física y Evolución</i>
