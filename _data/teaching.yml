@@ -1,2 +1,4 @@
-- name: Quantitative Immunology
+- name: Immunology for physicists
+  link: /sections/quantitative_immunology
+- name: Advance statistical physics
   link: /sections/quantitative_immunology

@@ -11,12 +11,13 @@ title: Teaching
 
 <body>
 
-
+<br>
+<br>
 <nav>
   <div style = "text-align: justify; max-width: 1000px; margin: 0 auto;">
 
   {% for item in site.data.teaching %}
-    <a href="{{ item.link }}" {% if page.url == item.link %} class="current"{% endif %} > <h1>{{ item.name }}</h1></a> &nbsp; &nbsp;
+    <a href="{{ item.link }}" {% if page.url == item.link %} class="current"{% endif %} > <h1>{{ item.name }}</h1></a> &nbsp;
   {% endfor %}
 </div>
 </nav>
