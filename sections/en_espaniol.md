@@ -2,6 +2,7 @@
 layout: default
 title: En español
 ---
+<div style = "text-align: justify; max-width: 1000px; margin: 0 auto;">
 
 <h1>Últimas entradas</h1>
 
