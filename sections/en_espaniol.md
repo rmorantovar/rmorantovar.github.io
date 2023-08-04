@@ -3,6 +3,14 @@ layout: default
 title: En español
 ---
 <div style = "text-align: justify; max-width: 1000px; margin: 0 auto;">
+<br>
+<center>
+<figure>
+<img src= "../assets/images/nevado.JPG" width="500px" height="auto">
+<figcaption>Nevado Poleka Kasué, Parque de los nevados, Colombia. 2023
+</figcaption>
+</figure>
+</center>
 
 <h1>Últimas entradas</h1>
 
