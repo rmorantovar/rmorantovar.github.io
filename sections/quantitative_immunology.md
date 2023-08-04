@@ -1,5 +1,5 @@
 ---
-layout: default_IS
+layout: default_Immune_system
 title: Quantitative Immunology
 ---
 
@@ -17,7 +17,7 @@ The course gives an introduction to modern immunology for physicists, with an em
 
 <ul>
   {% for post in site.posts reversed%}
-  	{% if post.blog == "IS" %}
+  	{% if post.blog == "Immune_system" %}
     <li>
       <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
       <!--{{ post.excerpt }}-->

@@ -10,12 +10,12 @@
   link: /sections/teaching
 # - name: Quantitative Immunology
 #   link: /sections/quantitative_immunology
+- name: Blog
+  link: /sections/blog
+- name: Otros escritos en español
+  link: https://rmorantovar.medium.com
 - name: Contact
   link: /sections/contact
-- name: Blog
-  link: /sections/blog.html
-- name: Otros escritos
-  link: https://rmorantovar.medium.com
 #- name: <i>Física y Evolución</i>
 #  link: /fisica_evolucion.html
 #- name: Statistical Physics
