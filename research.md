@@ -10,7 +10,7 @@ permalink: /reseach/
   <img src="/assets/images/figure_PRX.png"
      alt="Exponential proofreading"
      style="max-width: 40%; display: block; margin: 0 auto;">
-  <figcaption style="margin-top: 0.5em; font-size: 0.9em; color: #666;">
+  <figcaption style="margin-top: 0.75em; font-size: 0.85em; color: #555;">
     <strong>Exponential proofreading</strong>
   </figcaption>
 </figure>
