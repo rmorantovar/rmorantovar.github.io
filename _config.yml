@@ -30,6 +30,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: rmorantovar
 github_username:  rmorantovar
 bluesky_username: rmorantovar
+bluesky_url: https://bsky.app/profile/rmorantovar.bsky.social
 
 # Build settings
 theme: minima
