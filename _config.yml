@@ -36,6 +36,12 @@ theme: minima
 plugins:
   - jekyll-feed
 
+header_pages:
+  - index.markdown
+  - about.md
+  - research.md
+  - biophys_archive.md
+
 collections:
   biophys_archive:
     output: true
