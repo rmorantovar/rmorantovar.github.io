@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-# Welcome
 
-This is my new website.
-[About me](/about/)
+<h1 style="text-align: center; color: #263da2 ">
+Information Processing in Biological Systems
+</h1>
