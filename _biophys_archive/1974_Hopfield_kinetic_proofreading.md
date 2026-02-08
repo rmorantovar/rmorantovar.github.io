@@ -7,18 +7,6 @@ journal: PNAS
 paper_link: "https://..."
 ---
 
-## One-sentence takeaway
-…
+## How to reduce the error rate of a simple chemical reaction
 
-## Why this paper matters
-…
 
-## Key ideas (pedagogical)
-- …
-- …
-
-## Minimal model / equations (optional)
-…
-
-## Notes / glossary
-…
