@@ -5,7 +5,7 @@ permalink: /biophys_archive/
 order: 3
 ---
 
-# Paper Summaries
+# A Brief History of Biophysics
 
 {% assign sorted = site.biophys_archive | sort_natural: "year" %}
 
