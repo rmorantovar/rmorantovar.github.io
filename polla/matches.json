@@ -22,6 +22,24 @@
       }
     },
     {
+      "id": 0,
+      "stage": "group",
+      "group": "B",
+      "date": "2026-05-10",
+      "time_utc": "17:00",
+      "venue": "Medellin",
+      "home": {
+        "code": "eq3",
+        "name": "Equipo 3",
+        "flag": "🏴‍☠️"
+      },
+      "away": {
+        "code": "eq4",
+        "name": "Equipo 4",
+        "flag": "🏁"
+      }
+    },
+    {
       "id": 1,
       "stage": "group",
       "group": "A",
