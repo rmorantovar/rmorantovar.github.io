@@ -1,31 +1,73 @@
----
-permalink: /polla/reporte.html
-layout: null
-sitemap: false
----
 <!DOCTYPE html>
 <html lang="es">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Tabla - Polla Mundial 2026</title>
+<title>Polla Mundial 2026 - Tabla</title>
 <style>
   body {
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
     max-width: 720px; margin: 0 auto; padding: 24px 16px;
-    background: #f7f7f5; color: #1a1a1a; text-align: center;
+    background: #f7f7f5; color: #1a1a1a;
   }
-  .empty { padding: 60px 20px; }
-  .empty .emoji { font-size: 4rem; margin-bottom: 16px; display: block; }
-  h1 { color: #0a6c3e; margin-bottom: 8px; }
-  p { color: #6b7280; }
+  h1 { color: #0a6c3e; }
+  .updated { color: #6b7280; font-size: 0.9rem; margin-bottom: 24px; }
+  table {
+    width: 100%; border-collapse: collapse;
+    background: white; border-radius: 12px; overflow: hidden;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+  }
+  th { background: #0a6c3e; color: white; padding: 12px 8px; text-align: left; }
+  td { padding: 10px 8px; border-bottom: 1px solid #e5e7eb; }
+  tr:last-child td { border-bottom: none; }
+  td.rank { font-weight: 700; width: 50px; text-align: center; font-size: 1.1rem; }
+  td.player { font-weight: 600; }
+  td.points { font-weight: 700; color: #0a6c3e; font-size: 1.1rem; }
+  th.r, td.r { text-align: right; }
+  footer { margin-top: 24px; color: #6b7280; font-size: 0.85rem; }
 </style>
 </head>
 <body>
-<div class="empty">
-  <span class="emoji">⚽</span>
-  <h1>La tabla aparecerá acá</h1>
-  <p>Volvé a esta página después del primer partido.</p>
-</div>
+
+<h1>🏆 Polla Mundial 2026</h1>
+<p class="updated">Actualizado: 09/05/2026 12:33</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>#</th>
+      <th>Jugador</th>
+      <th class="r">Puntos</th>
+      <th class="r">Exactos</th>
+      <th class="r">Aciertos</th>
+      <th class="r">Total</th>
+    </tr>
+  </thead>
+  <tbody>
+    
+        <tr>
+          <td class="rank">🥇</td>
+          <td class="player">Angela</td>
+          <td class="points">0</td>
+          <td>0</td>
+          <td>0/1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td class="rank">🥈</td>
+          <td class="player">Beto</td>
+          <td class="points">0</td>
+          <td>0</td>
+          <td>0/1</td>
+          <td>1</td>
+        </tr>
+  </tbody>
+</table>
+
+<footer>
+  Reglas: marcador exacto = 5 pts · ganador + dif = 3 ·
+  solo ganador / empate = 2
+</footer>
+
 </body>
 </html>
