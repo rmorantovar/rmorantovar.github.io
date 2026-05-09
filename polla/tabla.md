@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: polla
 title: Tabla de Posiciones
 permalink: /polla/tabla/
 ---

@@ -36,11 +36,28 @@ sitemap: false
   header {
     background: linear-gradient(135deg, var(--green), var(--green-dark));
     color: white;
-    padding: 24px 16px;
+    padding: 16px 16px 24px;
     text-align: center;
   }
   header h1 { font-size: 1.75rem; margin-bottom: 4px; }
   header p { opacity: 0.9; font-size: 0.95rem; }
+  .polla-nav {
+    display: flex; flex-wrap: wrap; gap: 6px;
+    justify-content: center; align-items: center;
+    margin-bottom: 8px;
+  }
+  .polla-nav a {
+    color: white; text-decoration: none;
+    padding: 6px 12px; border-radius: 6px;
+    font-size: 0.9rem; transition: background 0.15s;
+  }
+  .polla-nav a:hover { background: rgba(255,255,255,0.15); }
+  .polla-nav a.active { background: rgba(255,255,255,0.25); font-weight: 600; }
+  .polla-nav a.back {
+    opacity: 0.8; font-size: 0.82rem;
+    border-left: 1px solid rgba(255,255,255,0.3);
+    padding-left: 14px; margin-left: 4px;
+  }
 
   main { max-width: 720px; margin: 0 auto; padding: 16px; }
 
@@ -256,6 +273,12 @@ sitemap: false
 <body>
 
 <header>
+  <nav class="polla-nav">
+    <a href="/polla/">Inicio</a>
+    <a href="/polla/form/" class="active">Pronosticar</a>
+    <a href="/polla/tabla/">Tabla</a>
+    <a href="/" class="back">← Sitio principal</a>
+  </nav>
   <h1>🏆 Polla Mundial 2026</h1>
   <p id="day-label">Cargando partidos...</p>
 </header>

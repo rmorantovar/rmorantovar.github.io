@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: polla
 title: Polla Mundialista
 permalink: /polla/
 ---

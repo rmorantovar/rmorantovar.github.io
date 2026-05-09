@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title }} · Polla Mundial 2026</title>
+
+  <!-- Heredamos algunos estilos básicos de Minima para que el contenido se vea consistente -->
+  {%- feed_meta -%}
+
+  <style>
+    /* Reset mínimo y estilos base */
+    * { box-sizing: border-box; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      margin: 0;
+      padding: 0;
+      background: #f7f7f5;
+      color: #1a1a1a;
+      line-height: 1.6;
+    }
+
+    /* Header propio de la polla */
+    .polla-header {
+      background: linear-gradient(135deg, #0a6c3e, #074a29);
+      color: white;
+      padding: 16px 24px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    }
+    .polla-header-inner {
+      max-width: 800px;
+      margin: 0 auto;
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      justify-content: space-between;
+      gap: 12px;
+    }
+    .polla-header h1 {
+      margin: 0;
+      font-size: 1.25rem;
+      font-weight: 700;
+    }
+    .polla-header h1 a {
+      color: white;
+      text-decoration: none;
+    }
+    .polla-nav {
+      display: flex;
+      gap: 6px;
+      flex-wrap: wrap;
+      align-items: center;
+    }
+    .polla-nav a {
+      color: white;
+      text-decoration: none;
+      padding: 6px 12px;
+      border-radius: 6px;
+      font-size: 0.9rem;
+      transition: background 0.15s;
+    }
+    .polla-nav a:hover { background: rgba(255,255,255,0.15); }
+    .polla-nav a.back {
+      opacity: 0.8;
+      font-size: 0.82rem;
+      border-left: 1px solid rgba(255,255,255,0.3);
+      padding-left: 14px;
+      margin-left: 4px;
+    }
+
+    /* Contenido principal */
+    main {
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 24px;
+    }
+    main h1 { color: #0a6c3e; margin-top: 0; }
+    main h2 { color: #074a29; margin-top: 32px; }
+    main a { color: #0a6c3e; }
+    main table {
+      border-collapse: collapse;
+      width: 100%;
+      margin: 16px 0;
+      background: white;
+      border-radius: 8px;
+      overflow: hidden;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+    }
+    main th { background: #0a6c3e; color: white; padding: 10px; text-align: left; }
+    main td { padding: 10px; border-bottom: 1px solid #e5e7eb; }
+    main tr:last-child td { border-bottom: none; }
+
+    /* Footer pequeño */
+    .polla-footer {
+      text-align: center;
+      padding: 24px;
+      font-size: 0.85rem;
+      color: #6b7280;
+      border-top: 1px solid #e5e7eb;
+      margin-top: 40px;
+    }
+    .polla-footer a { color: #0a6c3e; }
+  </style>
+</head>
+<body>
+
+<header class="polla-header">
+  <div class="polla-header-inner">
+    <h1><a href="/polla/">🏆 Polla Mundial 2026</a></h1>
+    <nav class="polla-nav">
+      <a href="/polla/">Inicio</a>
+      <a href="/polla/form/">Pronosticar</a>
+      <a href="/polla/tabla/">Tabla</a>
+      <a href="/" class="back">← Sitio principal</a>
+    </nav>
+  </div>
+</header>
+
+<main>
+  {{ content }}
+</main>
+
+<footer class="polla-footer">
+  Polla Mundial 2026 · <a href="/">Volver al sitio principal</a>
+</footer>
+
+</body>
+</html>
