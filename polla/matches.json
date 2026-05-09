@@ -4,10 +4,28 @@
   "total_matches": 104,
   "matches": [
     {
+      "id": 0,
+      "stage": "group",
+      "group": "A",
+      "date": "2026-05-09",
+      "time_utc": "15:00",
+      "venue": "Bogota",
+      "home": {
+        "code": "eq1",
+        "name": "Equipo 1",
+        "flag": "🏳️"
+      },
+      "away": {
+        "code": "eq2",
+        "name": "Equipo 2",
+        "flag": "🏴"
+      }
+    },
+    {
       "id": 1,
       "stage": "group",
       "group": "A",
-      "date": "2026-05-10",
+      "date": "2026-06-11",
       "time_utc": "15:00",
       "venue": "Vancouver",
       "home": {
