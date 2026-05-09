@@ -39,24 +39,24 @@
         "flag": "🏁"
       }
     },
-    {
-      "id": 1,
-      "stage": "group",
-      "group": "A",
-      "date": "2026-06-11",
-      "time_utc": "15:00",
-      "venue": "Vancouver",
-      "home": {
-        "code": "MEX",
-        "name": "México",
-        "flag": "🇲🇽"
-      },
-      "away": {
-        "code": "RSA",
-        "name": "Sudáfrica",
-        "flag": "🇿🇦"
-      }
-    },
+    // {
+    //   "id": 1,
+    //   "stage": "group",
+    //   "group": "A",
+    //   "date": "2026-06-11",
+    //   "time_utc": "15:00",
+    //   "venue": "Vancouver",
+    //   "home": {
+    //     "code": "MEX",
+    //     "name": "México",
+    //     "flag": "🇲🇽"
+    //   },
+    //   "away": {
+    //     "code": "RSA",
+    //     "name": "Sudáfrica",
+    //     "flag": "🇿🇦"
+    //   }
+    // },
     {
       "id": 2,
       "stage": "group",
