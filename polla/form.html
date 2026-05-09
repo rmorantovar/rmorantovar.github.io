@@ -33,31 +33,69 @@ sitemap: false
     padding-bottom: 60px;
   }
 
-  header {
-    background: linear-gradient(135deg, var(--green), var(--green-dark));
-    color: white;
-    padding: 16px 16px 24px;
-    text-align: center;
-  }
-  header h1 { font-size: 1.75rem; margin-bottom: 4px; }
-  header p { opacity: 0.9; font-size: 0.95rem; }
-  .polla-nav {
-    display: flex; flex-wrap: wrap; gap: 6px;
-    justify-content: center; align-items: center;
-    margin-bottom: 8px;
-  }
-  .polla-nav a {
-    color: white; text-decoration: none;
-    padding: 6px 12px; border-radius: 6px;
-    font-size: 0.9rem; transition: background 0.15s;
-  }
-  .polla-nav a:hover { background: rgba(255,255,255,0.15); }
-  .polla-nav a.active { background: rgba(255,255,255,0.25); font-weight: 600; }
-  .polla-nav a.back {
-    opacity: 0.8; font-size: 0.82rem;
-    border-left: 1px solid rgba(255,255,255,0.3);
-    padding-left: 14px; margin-left: 4px;
-  }
+  .polla-header {
+  background: linear-gradient(135deg, #0a6c3e, #074a29);
+  color: white;
+  padding: 16px 24px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+.polla-header-inner {
+  max-width: 800px;
+  margin: 0 auto;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+}
+.polla-header h1 {
+  margin: 0;
+  font-size: 1.25rem;
+  font-weight: 700;
+}
+.polla-header h1 a {
+  color: white;
+  text-decoration: none;
+}
+.polla-nav {
+  display: flex;
+  gap: 6px;
+  flex-wrap: wrap;
+  align-items: center;
+}
+.polla-nav a {
+  color: white;
+  text-decoration: none;
+  padding: 6px 12px;
+  border-radius: 6px;
+  font-size: 0.9rem;
+  transition: background 0.15s;
+}
+.polla-nav a:hover { background: rgba(255,255,255,0.15); }
+.polla-nav a.back {
+  opacity: 0.8;
+  font-size: 0.82rem;
+  border-left: 1px solid rgba(255,255,255,0.3);
+  padding-left: 14px;
+  margin-left: 4px;
+}
+
+/* Bloque de info del día (lo que antes estaba en el header) */
+.day-info {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 24px 16px 0;
+  text-align: center;
+}
+.day-info h2 {
+  color: #0a6c3e;
+  margin: 0 0 4px 0;
+  font-size: 1.5rem;
+}
+.day-info p {
+  color: #6b7280;
+  margin: 0;
+}
 
   main { max-width: 720px; margin: 0 auto; padding: 16px; }
 
@@ -272,15 +310,21 @@ sitemap: false
 </head>
 <body>
 
-<header>
-  <nav class="polla-nav">
-    <a href="/polla/">Inicio</a>
-    <a href="/polla/form/" class="active">Pronosticar</a>
-    <a href="/polla/tabla/">Tabla</a>
-  </nav>
-  <h1>🏆 Polla Mundial 2026</h1>
-  <p id="day-label">Cargando partidos...</p>
+<header class="polla-header">
+  <div class="polla-header-inner">
+    <h1><a href="/polla/">🏆 Polla Mundial 2026</a></h1>
+    <nav class="polla-nav">
+      <a href="/polla/">Inicio</a>
+      <a href="/polla/form/">Pronosticar</a>
+      <a href="/polla/tabla/">Tabla</a>
+      <a href="/" class="back">← Sitio principal</a>
+    </nav>
+  </div>
 </header>
+
+<div class="day-info">
+  <h2 id="day-label">Cargando partidos...</h2>
+</div>
 
 <main>
 
